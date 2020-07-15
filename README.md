@@ -2,8 +2,8 @@
 <html lang="en">
   
 <head>
-	<meta charset="UTF-8">
-	<title>Final Project</title>
+  <meta charset="UTF-8">
+  <title>Final Project</title>
 </head>
   
 <body>
@@ -19,36 +19,36 @@
   <h2>Favorite Foods</h2>
   <ul>
   <li>Pizza</li>
-	<li>Hamburger</li>
-	<li>Tacos</li>
-	<li>Apple pie</li>
+     <li>Hamburger</li>
+     <li>Tacos</li>
+     <li>Apple pie</li>
   </ul>
   </section>
   
   <section>
-  <h2>Achievements</h2>
-  <label for="file">Progress in this course(100%):</label>
-  <progress id="file" value="100" max="100">100%</progress>
+   <h2>Achievements</h2>
+   <label for="file">Progress in this course(100%):</label>
+   <progress id="file" value="100" max="100">100%</progress>
   <br>
-  <label for="file">Progress in the Specialization capstone(20%):</label>
-  <progress id="file" value="20" max="100">20%</progress> 
+   <label for="file">Progress in the Specialization capstone(20%):</label>
+   <progress id="file" value="20" max="100">20%</progress> 
   <br>
-  <label for="file">Progress in life goals (50%):</label>
-  <progress id="file" value="50" max="100">50%</progress>
+   <label for="file">Progress in life goals (50%):</label>
+   <progress id="file" value="50" max="100">50%</progress>
   </section>
 
   <section>
-  <h2>More About Me</h2>
+   <h2>More About Me</h2>
   <details>
-  <summary>Study</summary>
-  <p>I am currently pursuing my B.E. in computer engineer at silver oak college in ahmedabad.I am in fourth year.I can go abroad for my higher education.</p>
+   <summary>Study</summary>
+    <p>I am currently pursuing my B.E. in computer engineer at silver oak college in ahmedabad.I am in fourth year.I can go abroad for my higher education.</p>
   </details>
   
   <footer>
-	<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web Design For Everyone">
-	This page was created by COLLEEN VAN LENT and PARV PATEL.
-	To learn more about web design,<b>visit</b>
-  <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
+   <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Web Design For Everyone">
+      This page was created by COLLEEN VAN LENT and PARV PATEL.
+       To learn more about web design,<b>visit</b>
+   <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
   </footer>
 </body>
 </html>
